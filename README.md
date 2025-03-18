@@ -89,5 +89,5 @@ Acceder a la app en: `http://localhost:3000`
 ---
 
 ## 📌 Notas Finales
-Si tienes dudas o sugerencias, abre un issue en el repositorio. 😊
+Si tienes dudas o sugerencias, abre un issue en el repositorio.
 
