@@ -9,7 +9,7 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: mysecretpassword
-      POSTGRES_DB: prueba-basde_de_datos
+      POSTGRES_DB: prueba-base_de_datos
     volumes:
       - postgres_data:/var/lib/postgresql/data
 volumes:
